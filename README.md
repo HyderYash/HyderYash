@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyderyash" alt="hyderyash" /></a> </p>
 
-- 🌱 I’m currently learning **React, Javascript, HTMl, CSS**
+- 🌱 I’m currently learning **React, React Native, Vue JS, Javascript, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [http://tech.deliciouspakwan.com](http://tech.deliciouspakwan.com)
 
