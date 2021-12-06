@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [http://tech.deliciouspakwan.com](http://tech.deliciouspakwan.com)
 
-<a href="https://app.daily.dev/HyderYash"><img src="https://api.daily.dev/devcards/d0341eeb7d8f4536a6a19ce2ce9081d9.png?r=cm2" width="400" alt="Yash Sharma's Dev Card"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyderyash&show_icons=true&locale=en" alt="hyderyash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyderyash&" alt="hyderyash" /></p>
+<a href="https://app.daily.dev/HyderYash"><img src="https://api.daily.dev/devcards/d0341eeb7d8f4536a6a19ce2ce9081d9.png?r=cm2" width="400" alt="Yash Sharma's Dev Card"/></a>
