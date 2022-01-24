@@ -1,28 +1,49 @@
-<h1 align="center">Hi 👋, I'm Yash Sharma</h1>
+<h1 align="center"> Yash Sharma <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyderyash&label=Profile%20views&color=0e75b6&style=flat" alt="hyderyash" /> </p>
+- ## Hello, my name is Yash, I'm 16 years old.👨‍💻
+- ## I am completing my high school.💻
+- ## I live in India.🌎
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyderyash" alt="hyderyash" /></a> </p>
+### Technologies 📲
+<code><img height="32" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code> <code><img height="32" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code> <code><img height="32" title="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"/></code> <code><img height="32" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code> 
+<code><img height="32" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code> 
+<code><img height="32" width="32" title="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Python"/></code> 
+<code><img height="32" title="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/></code> 
+<code><img height="32" title="OpenCV" src="https://mlblr.com/images/opencvlogo.png" alt="OpenCV"/></code> 
+<code><img height="32" title="PHP" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP"/></code> 
+<code><img height="32" title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" alt="Laravel"/></code> 
+<code><img height="32" title="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="Dart"/></code> 
+<code><img height="32" title="MySQL" src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL"/></code> 
+<code><img height="32" title="MongoDB" src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" width="32" title="FireBase" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" alt="Firebase"/></code> 
+  
+### Systems and tools 🖥
+<code><img height="32" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"/></code> 
+<code><img height="32" width="32" title="Linux" src="http://pngimg.com/uploads/linux/linux_PNG48.png" alt="Linux"/></code> 
+<code><img height="32" title="VSC" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC"/></code> 
+<code><img height="32" title="Wamp" src="https://www.canalti.com.br/wp-content/uploads/2017/11/WampServer-logo.png" alt="Wamp"/></code> 
+<code><img height="32" width="32" title="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA"/></code> 
+<code><img height="32" title="Github" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Github"/></code> 
+<code><img height="32" title="NPM" src="https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png" alt="NPM"/></code> 
+<code><img height="32" title="Yarn" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="Yarn"/></code> 
+<code><img height="32" title="Heroku" src="https://image.flaticon.com/icons/png/512/873/873120.png" alt="Heroku"/></code> 
+  
+### In study
+<code><img height="32" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript"/></code> 
+<code><img height="32" title="React" src="https://appmasters.io/static/47ce6e77f039020ee2e76a10c1e988e9/acf26/react.webp" alt="React"/></code> 
+<code><img height="32" title="Next.js" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="Next.js"/></code> 
+<code><img height="32" title="Node.js" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js"/></code>
 
-- 🌱 I’m currently learning **React, React Native, Vue JS, Javascript, HTML, CSS**
+### I have interest
+<code><img height="32" title="Spring" src="https://img.icons8.com/color/452/spring-logo.png" alt="Spring"/></code> 
+<code><img height="32" title="Elixir" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_elixir_icon_130623.png" alt="Elixir"/></code> 
+<code><img height="32" title="Flutter" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter"/></code>
+<code><img height="32" title="Vue" src="https://vuejs.org/images/logo.png" alt="Vue"/></code> 
 
-- 👨‍💻 All of my projects are available at [http://tech.deliciouspakwan.com](http://tech.deliciouspakwan.com)
+### My Stats:
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyderYash&show_icons=true&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyderYash&show_icons=true&layout=compact&langs_count=6&theme=radical)
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/hyderyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hyderyash" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14464382/hyderyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14464382/hyderyash" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hyderyash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="hyderyash" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyderyash&show_icons=true&locale=en&layout=compact" alt="hyderyash" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyderyash&show_icons=true&locale=en" alt="hyderyash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyderyash&" alt="hyderyash" /></p>
-<a href="https://app.daily.dev/HyderYash"><img src="https://api.daily.dev/devcards/d0341eeb7d8f4536a6a19ce2ce9081d9.png?r=cm2" width="400" alt="Yash Sharma's Dev Card"/></a>
+##### e-mail: yashsharma.karate@gmail.com
