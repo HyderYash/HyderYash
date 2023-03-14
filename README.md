@@ -1,7 +1,6 @@
 <h1 align="center"> Yash Sharma <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px"></h1>
 
-- ## Hello, my name is Yash, I'm 16 years old.👨‍💻
-- ## I am completing my high school.💻
+- ## Hello, my name is Yash 👨‍💻
 - ## I live in India.🌎
 
 ### Technologies 📲
