@@ -1,48 +1,48 @@
-<h1 align="center"> Yash Sharma <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px"></h1>
+## Hi I'm Yash Sharma <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-- ## Hello, my name is Yash 👨‍💻
-- ## I live in India.🌎
+I'm Yash Sharma a Full Stack Web Developer. I spend most of my time learning and coding outstanding projects.
 
-### Technologies 📲
-<code><img height="32" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code> <code><img height="32" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code> <code><img height="32" title="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"/></code> <code><img height="32" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code> 
-<code><img height="32" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code> 
-<code><img height="32" width="32" title="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Python"/></code> 
-<code><img height="32" title="Java" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/></code> 
-<code><img height="32" title="OpenCV" src="https://mlblr.com/images/opencvlogo.png" alt="OpenCV"/></code> 
-<code><img height="32" title="PHP" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP"/></code> 
-<code><img height="32" title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" alt="Laravel"/></code> 
-<code><img height="32" title="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="Dart"/></code> 
-<code><img height="32" title="MySQL" src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL"/></code> 
-<code><img height="32" title="MongoDB" src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" width="32" title="FireBase" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" alt="Firebase"/></code> 
-  
-### Systems and tools 🖥
-<code><img height="32" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1200px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"/></code> 
-<code><img height="32" width="32" title="Linux" src="http://pngimg.com/uploads/linux/linux_PNG48.png" alt="Linux"/></code> 
-<code><img height="32" title="VSC" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC"/></code> 
-<code><img height="32" title="Wamp" src="https://www.canalti.com.br/wp-content/uploads/2017/11/WampServer-logo.png" alt="Wamp"/></code> 
-<code><img height="32" width="32" title="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA"/></code> 
-<code><img height="32" title="Github" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Github"/></code> 
-<code><img height="32" title="NPM" src="https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png" alt="NPM"/></code> 
-<code><img height="32" title="Yarn" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="Yarn"/></code> 
-<code><img height="32" title="Heroku" src="https://image.flaticon.com/icons/png/512/873/873120.png" alt="Heroku"/></code> 
-  
-### In study
-<code><img height="32" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript"/></code> 
-<code><img height="32" title="React" src="https://appmasters.io/static/47ce6e77f039020ee2e76a10c1e988e9/acf26/react.webp" alt="React"/></code> 
-<code><img height="32" title="Next.js" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="Next.js"/></code> 
-<code><img height="32" title="Node.js" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js"/></code>
+[![Linkedin Badge](https://img.shields.io/badge/-Yash-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma21/) [![Mail Badge](https://img.shields.io/badge/-yashsharma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yashsharma.karate@gmail.com)
 
-### I have interest
-<code><img height="32" title="Spring" src="https://img.icons8.com/color/452/spring-logo.png" alt="Spring"/></code> 
-<code><img height="32" title="Elixir" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_elixir_icon_130623.png" alt="Elixir"/></code> 
-<code><img height="32" title="Flutter" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter"/></code>
-<code><img height="32" title="Vue" src="https://vuejs.org/images/logo.png" alt="Vue"/></code> 
+<!-- TODO: Add last video link -->
 
-### My Stats:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyderYash&show_icons=true&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyderYash&show_icons=true&layout=compact&langs_count=6&theme=radical)
+### What I currently Do
+
+- 👨‍💻: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: yashsharma.karate@gmail.com.
+- ⚡ Fun fact: I play cricket and hit the gym.
+
+#### Top Technologies
+ [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]
+
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 
-##### e-mail: yashsharma.karate@gmail.com
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<br />
+<br />
+
+#### Profile Visits 
+
+![visitor](https://profile-counter.glitch.me/{HyderYash}/count.svg)
+
+#### Github Stats
+
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=HyderYash&count_private=true&theme=tokyonight&hide=contribs,prs)
