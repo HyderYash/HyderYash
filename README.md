@@ -1,168 +1,154 @@
-<div align="center">
-
-# Yash Sharma
-
-### Backend & Systems Engineer
-
-I build high-performance Node.js and TypeScript systems for real users, real load, and clean production handoffs.
-
-<a href="https://yash.webnaut.in/">Portfolio</a> |
-<a href="https://www.linkedin.com/in/yashsh21/">LinkedIn</a> |
-<a href="mailto:yashsharma.karate@gmail.com">Email</a>
-
-<br />
-
-<code>Node.js</code>
-<code>TypeScript</code>
-<code>Redis</code>
-<code>WebSockets</code>
-<code>PostgreSQL</code>
-<code>AWS</code>
-<code>Docker</code>
-<code>Next.js</code>
-
-<br />
-<br />
-
-<kbd>Founder of Refactyl</kbd>
-<kbd>Pune, India</kbd>
-<kbd>B.Tech AI</kbd>
-
-</div>
-
----
-
-## Currently
-
-I am building **Refactyl**, a developer tool that migrates and refactors production codebases with deterministic transforms, real compiler checks, and clean reviewable diffs. The thing I care about most: automation should be powerful without being careless.
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:0f172a,75:2563eb,100:7c3aed&amp;height=170&amp;section=header&amp;text=Yash%20Sharma&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Backend%20Engineer%20%7C%20Systems%20Builder%20%7C%20Founder%20of%20Refactyl&amp;descSize=17&amp;descAlignY=58" alt="Yash Sharma - Backend Engineer, Systems Builder, Founder of Refactyl" />
+</p>
 
 <table>
   <tr>
-    <td width="50%"><strong>Founder mode</strong><br />Building Refactyl and thinking about how codebases evolve without drama.</td>
-    <td width="50%"><strong>Systems mode</strong><br />Performance, caching, event pipelines, compiler gates, and production architecture.</td>
-  </tr>
-  <tr>
-    <td width="50%"><strong>Team mode</strong><br />Led an 8-person engineering team and introduced review, CI/CD, and repeatable releases.</td>
-    <td width="50%"><strong>Student mode</strong><br />B.Tech in Artificial Intelligence at Ajeenkya D Y Patil University, Pune.</td>
+    <td width="68%" valign="middle">
+      <h1>Hey, I am Yash Sharma.</h1>
+      <h3>Backend and systems engineer building software that holds up under real load.</h3>
+      <p>
+        I work across <strong>Node.js, TypeScript, Redis, WebSockets, PostgreSQL, Docker, and AWS</strong>.
+        My favorite problems live where performance, correctness, and product pressure meet:
+        real-time systems, compiler-gated migrations, high-throughput APIs, and internal platforms people rely on.
+      </p>
+      <p>
+        Currently building <strong>Refactyl</strong>, a developer tool that migrates and refactors production codebases
+        into modern frameworks with clean, reviewable diffs.
+      </p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img width="220" src="https://yash.webnaut.in/_next/image?url=%2Fyash.jpg&amp;w=750&amp;q=90" alt="Yash Sharma" />
+    </td>
   </tr>
 </table>
 
-## The Short Version
+<p align="center">
+  <a href="https://yash.webnaut.in/"><img src="https://img.shields.io/badge/Portfolio-yash.webnaut.in-38bdf8?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yashsh21/"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Sharma-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yashsharma.karate@gmail.com"><img src="https://img.shields.io/badge/Email-yashsharma.karate%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://yash.webnaut.in/yash-sharma-resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-111827?style=for-the-badge&amp;logo=readme&amp;logoColor=white" alt="Resume" /></a>
+</p>
 
-```txt
-name      Yash Sharma
-location  Pune, India
-focus     backend systems, AI developer tools, real-time products
-style     measure first, ship carefully, keep the diff readable
-belief    great software feels calm because the hard parts were handled
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=I%20build%20backends%20that%20survive%20real%20load.;Express%20to%20Fastify%20migration%20engine%20benchmarked%20at%203.1x.;10k%2B%20concurrent%20users.%202M%2B%20events%2Fday.%20Sub-100ms%20latency." alt="Typing SVG" />
+</p>
 
-## Signature Work
+<br />
+
+## Proof Points
 
 <table>
   <tr>
-    <td width="22%"><strong><a href="https://yash.webnaut.in/">Refactyl</a></strong></td>
-    <td>Developer tool for migrating production codebases, including an Express to Fastify migration path gated by <code>tsc</code> and framework compilers.</td>
-    <td>Refactors should be reviewable, deterministic, and safe enough for real codebases.</td>
-  </tr>
-  <tr>
-    <td width="22%"><strong><a href="https://yash.webnaut.in/">Mighty Champions</a></strong></td>
-    <td>Production web platform with program sites, admissions flows, enrollment portal, and authenticated internal dashboard.</td>
-    <td>A real organization can run programs faster when the product surface and internal tools are coherent.</td>
-  </tr>
-  <tr>
-    <td width="22%"><strong><a href="https://lutbuilder.ai/">LUTBuilder.ai</a></strong></td>
-    <td>AI-powered LUT generation platform with real-time previews, creator dashboard, Stripe billing, and FFmpeg plus AWS Lambda processing.</td>
-    <td>Creative tools should feel immediate while doing heavy work behind the scenes.</td>
-  </tr>
-  <tr>
-    <td width="22%"><strong><a href="https://www.stillcollab.com/">StillCollab</a></strong></td>
-    <td>Client proofing and creative approval workflow for photographers and content teams.</td>
-    <td>Less status chasing, more approvals moving cleanly.</td>
+    <td align="center" width="25%">
+      <h2>3.1x</h2>
+      <p>throughput gain<br /><sub>Express to Fastify</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h2>38.9k</h2>
+      <p>requests/sec<br /><sub>benchmarked sustained load</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h2>10k+</h2>
+      <p>concurrent users<br /><sub>real-time systems</sub></p>
+    </td>
+    <td align="center" width="25%">
+      <h2>2M+</h2>
+      <p>events/day<br /><sub>event engines</sub></p>
+    </td>
   </tr>
 </table>
 
-## Systems I Care About
+## Engineering Focus
 
 ```txt
-load-bearing APIs      Node.js, Express, Fastify, REST, GraphQL
-real-time paths        WebSockets, Redis, event-driven services, low-latency flows
-data foundations       PostgreSQL, MongoDB, MySQL, Prisma, caching, consistency
-developer tooling      deterministic transforms, compiler gates, migration engines
-delivery               AWS, Docker, Vercel, GitHub Actions, CI/CD, observability
+Real-time systems     WebSockets, event pipelines, low-latency APIs, consistency under load
+Backend architecture  Node.js, Express, Fastify, REST, GraphQL, microservices, async workflows
+Data systems          PostgreSQL, MongoDB, MySQL, Redis, Prisma, caching and query optimization
+Cloud + delivery      AWS EC2/S3/RDS/Lambda, Docker, Vercel, GitHub Actions, CI/CD
+Product surfaces      Dashboards, portals, billing flows, admissions systems, creator tools
 ```
 
 ## Stack
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>TypeScript, JavaScript, Python, Java, SQL</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js, Express, Fastify, REST APIs, GraphQL, WebSockets, microservices, event-driven architecture</td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>PostgreSQL, MongoDB, MySQL, Redis, Prisma</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React, Next.js, Tailwind CSS, HTML5, CSS3</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud</strong></td>
-    <td>AWS EC2, S3, RDS, Lambda, Docker, Vercel, GitHub Actions, Jest, Postman</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,tailwind,py,java,postgres,mongodb,mysql,redis,prisma,graphql,docker,aws,vercel,githubactions,jest,postman&amp;theme=dark&amp;perline=11" alt="TypeScript, JavaScript, Node.js, Express, React, Next.js, Tailwind CSS, Python, Java, PostgreSQL, MongoDB, MySQL, Redis, Prisma, GraphQL, Docker, AWS, Vercel, GitHub Actions, Jest, Postman" />
+  </a>
+</p>
 
-## Personality In Production
+## Selected Work
 
 <table>
   <tr>
-    <td><strong>How I like systems</strong><br />Predictable, measurable, and easy to reason about. Boring in the best possible way.</td>
-    <td><strong>How I like diffs</strong><br />Reviewable, intentional, and kind to future-you.</td>
+    <td width="50%" valign="top">
+      <h3>Refactyl</h3>
+      <p>
+        Developer tool for migrating and refactoring production codebases into modern frameworks with clean,
+        reviewable diffs. Built a deterministic Express-to-Fastify migration engine benchmarked from
+        <strong>12k to 38.9k req/s</strong>, gated by real compiler checks.
+      </p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>Docker</code> <code>PostgreSQL</code> <code>Redis</code> <code>AWS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mighty Champions</h3>
+      <p>
+        Preventive mental-health education platform. Shipped <strong>15+ production websites</strong> plus the
+        admissions flow, enrollment portal, and authenticated internal dashboard.
+      </p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
+    </td>
   </tr>
   <tr>
-    <td><strong>How I like performance</strong><br />Users never notice it because nothing feels slow.</td>
-    <td><strong>How I like product</strong><br />Polished on the surface, honest underneath.</td>
+    <td width="50%" valign="top">
+      <h3>Voxa</h3>
+      <p>
+        AI-powered multilingual speaking and storytelling coach. Owned architecture, led an 8-person engineering
+        intern team, shipped core features and the AI voice-feedback pipeline.
+      </p>
+      <p><code>AI systems</code> <code>Architecture</code> <code>CI/CD</code> <code>Engineering leadership</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>LUTBuilder.ai</h3>
+      <p>
+        AI-powered LUT generation platform for filmmakers with real-time previews, creator dashboard, Stripe
+        subscriptions, and FFmpeg plus AWS Lambda color-processing pipelines.
+      </p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>FFmpeg</code> <code>AWS Lambda</code> <code>Stripe</code></p>
+    </td>
   </tr>
 </table>
 
-Outside code, I play cricket and hit the gym. Different kind of debugging, same humbling feedback loop.
+## GitHub Signal
 
-## Build Log
+<p align="center">
+  <img height="182" src="https://github-stats-extended.vercel.app/api?username=HyderYash&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true" alt="Yash's GitHub stats" />
+  <img height="182" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HyderYash&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Yash's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HyderYash&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=920" alt="Yash's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HyderYash&amp;theme=tokyo-night&amp;hide_border=true&amp;radius=8&amp;area=true&amp;custom_title=Contribution%20Graph" alt="Yash's GitHub activity graph" />
+</p>
+
+## Current Mode
 
 ```txt
-Refactyl        compiler-gated migration engine, Express to Fastify, clean diffs
-Mighty Champs   production web platform, admissions, portals, internal tools
-Voxa            AI speaking coach, voice feedback pipeline, team/process setup
-LUTBuilder.ai   AI creative tooling, FFmpeg processing, Stripe subscriptions
+Building      Refactyl - compiler-gated framework migration tooling
+Studying      B.Tech in Artificial Intelligence
+Exploring     distributed systems, AI developer tools, performance engineering
+Outside code  cricket, gym, and making systems simpler without making them weaker
 ```
 
-## Repositories To Open First
+<p align="center">
+  <a href="mailto:yashsharma.karate@gmail.com">
+    <img src="https://img.shields.io/badge/Build%20with%20me-yashsharma.karate%40gmail.com-38bdf8?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Build with me" />
+  </a>
+</p>
 
-| Repository | Why open it |
-| --- | --- |
-| [gday](https://github.com/HyderYash/gday) | Recent TypeScript work and current development signal. |
-| [yash-portfolio](https://github.com/HyderYash/yash-portfolio) | Portfolio source and personal positioning surface. |
-| [lut-gen](https://github.com/HyderYash/lut-gen) | AI/creative tooling direction tied to LUTBuilder work. |
-| [still](https://github.com/HyderYash/still) | Creative workflow and approval-platform work. |
-
-## Contact
-
-The fastest route is email. The best route is a message with context.
-
-<div align="center">
-
-<a href="mailto:yashsharma.karate@gmail.com">yashsharma.karate@gmail.com</a> |
-<a href="https://www.linkedin.com/in/yashsh21/">LinkedIn</a> |
-<a href="https://yash.webnaut.in/">Portfolio</a>
-
-<br />
-<br />
-
-<sub>Built with taste, TypeScript, and a mildly unreasonable respect for clean diffs.</sub>
-
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,45:2563eb,100:050816&amp;height=115&amp;section=footer" alt="Footer wave" />
+</p>
