@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=I%20build%20backends%20that%20survive%20real%20load.;Express%20to%20Fastify%20migration%20engine%20benchmarked%20at%203.1x.;10k%2B%20concurrent%20users.%202M%2B%20events%2Fday.%20Sub-100ms%20latency." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=I+build+products+that+solve+real+problems.;AI+%7C+Backend+%7C+SaaS+%7C+Developer+Tools.;I+turn+ideas+into+production-ready+software.;Building%2C+breaking%2C+and+shipping+every+day." />
 </p>
 
 <br />
